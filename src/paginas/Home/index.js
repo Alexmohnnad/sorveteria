@@ -1,9 +1,12 @@
-import React from "react";
+import Topo from "../../componentes/Topo";
+import Rodape from "../../Componentes/Rodape";
 
-function Home (){
+function Home(){
     return(
         <div>
-            <h1>home</h1>
+
+            <Topo />
+            <Rodape />
         </div>
     )
 
