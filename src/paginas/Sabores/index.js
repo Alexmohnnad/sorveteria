@@ -1,6 +1,6 @@
 import React from "react";
 
-function sabores (){
+function Sabores (){
     return(
         <div>
             <h1>sabores</h1>
@@ -8,4 +8,4 @@ function sabores (){
     )
 
 }
-export default sabores
+export default Sabores

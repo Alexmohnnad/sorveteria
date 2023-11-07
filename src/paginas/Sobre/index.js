@@ -1,11 +1,11 @@
 import React from "react";
 
-function sobre (){
+function Sobre (){
     return(
         <div>
-            <h1>sabores</h1>
+            <h1>sobre</h1>
         </div>
     )
 
 }
-export default sobre
+export default Sobre
