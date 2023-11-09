@@ -1,6 +1,6 @@
 header {
     width: 100%;
-    padding: 0px 10px;
+    padding: auto;
     display: flex;
     position: fixed;
     z-index: 1;
@@ -15,7 +15,7 @@ header {
   
   header img {
     width: auto;
-    height: 60px;
+    height: 70px;
   }
   
   header nav {
