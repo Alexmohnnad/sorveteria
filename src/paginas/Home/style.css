@@ -57,9 +57,9 @@
     text-align: center;
   }
   
-  .texto-secao-nossos-sabores span,
-  .texto-secao-nossos-eventos span,
-  .texto-secao-sobre-nos span {
+  .texto-secao-nossos-sabores h3,
+  .texto-secao-nossos-eventos h3,
+  .texto-secao-sobre-nos h3 {
     font-size: 20px;
     font-style: italic;
     font-weight: 600;

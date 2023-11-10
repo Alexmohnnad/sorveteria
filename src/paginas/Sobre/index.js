@@ -7,8 +7,8 @@ export default function Sobre (){
     return(
         <div>
             <Topo />
+                
             <Rodape />
-            <h1>sobre</h1>
         </div>
     )
 
